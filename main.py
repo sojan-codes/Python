@@ -1,6 +1,9 @@
 data = ('apple', 'banana', 'orange')
 data2 = ['apple', 'banana', 'orange']
 
+print(type(data)) #tuple
+print(type(data2)) #set
+
 #list into tuple 
 
 data_tuple = tuple(data)

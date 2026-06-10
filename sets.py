@@ -6,11 +6,10 @@ data = {}
 my_fruits = {'apple', 'banana', 'mango', 'banana'}
 
 print(my_set)
-print()
 
 
-my_fruits.add("grapes")
-my_fruits.remove("apple")
+# my_fruits.add("grapes")
+# my_fruits.remove("apple")
 
 print(my_fruits)
 
